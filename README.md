@@ -1,3 +1,5 @@
+Level 1
+
 ### Hi there👋 I'm Kishan!
 
 Here are some ideas to get you started:
@@ -30,8 +32,7 @@ Level 2
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KishGit153&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KishGit153&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KishGit153&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KishGit153&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
