@@ -1,21 +1,3 @@
-Level 1
-
-### Hi there👋 I'm Kishan!
-
-Here are some ideas to get you started:
-
-- 👨‍💻 Software Engineer showcasing my journey and work 
-- 🔭 I’m looking towards obtaining my AWS Solutions Architect Certification
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate on any projects that involve AWS Data Engineering or DevOps
-- 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/kishan-vaja-744996162)
-
-<!-- GitHub stats from [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishGit153&show_icons=true&theme=dracula)
-
-Level 2
-
 # 💫 Hi there, I'm Kishan:
 👨‍💻 Software Engineer showcasing my journey <br>
 🔭 I’m looking towards obtaining my AWS Solutions Architect Certification<br>
@@ -42,6 +24,21 @@ Level 2
 ---
 [![](https://visitcount.itsvg.in/api?id=KishGit153&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!--Level 1 Previous profile
+
+### Hi there👋 I'm Kishan!
+
+Here are some ideas to get you started:
+
+- 👨‍💻 Software Engineer showcasing my journey and work 
+- 🔭 I’m looking towards obtaining my AWS Solutions Architect Certification
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on any projects that involve AWS Data Engineering or DevOps
+- 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/kishan-vaja-744996162)
+
+<!-- GitHub stats from [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!--![Kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishGit153&show_icons=true&theme=dracula)-->
