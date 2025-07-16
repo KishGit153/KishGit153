@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Level 2
 
-# 💫 About Me:
+# 💫 Hi there, I'm Kishan:
 👨‍💻 Software Engineer showcasing my journey <br>🔭 
 I’m looking towards obtaining my AWS Solutions Architect Certification<br>
 🌱 I’m currently learning about DevOps and Git<br>
@@ -27,7 +27,7 @@ I’m looking towards obtaining my AWS Solutions Architect Certification<br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KishGit153&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KishGit153&theme=dracula_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KishGit153&theme=radical&no-frame=false&no-bg=false&margin-w=4)
