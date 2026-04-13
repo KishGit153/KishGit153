@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=KishGit153&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kishan-vaja-744996162) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kishanvaja) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KishGit153&icon=0&color=0)](https://visitcount.itsvg.in)
