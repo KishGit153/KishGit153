@@ -1,8 +1,8 @@
 # 💫 Hi there, I'm Kishan:
 👨‍💻 Software Engineer showcasing my journey <br>
-🔭 I’m looking towards obtaining my AWS Solutions Architect Certification<br>
-🌱 I’m currently learning about DevOps and Git<br>
-👯 I’m looking to collaborate on any projects that involve AWS Data Engineering or DevOps<br>
+🔭 I’m focusing on data engineering projects and building my skills<br>
+🌱 I’m currently learning about terraform <br>
+👯 I’m looking to collaborate on any projects that involve Data Engineering or DevOps<br>
 
 ## 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -16,6 +16,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kishanvaja) 
 
+www.linkedin.com/in/kishanvaja
 ---
 [![](https://visitcount.itsvg.in/api?id=KishGit153&icon=0&color=0)](https://visitcount.itsvg.in)
 
