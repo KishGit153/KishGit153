@@ -1,8 +1,8 @@
 # 💫 Hi there, I'm Kishan:
-👨‍💻 Software Engineer showcasing my journey <br>
+👨‍💻 Data consultant showcasing my journey <br>
 🔭 I’m focusing on data engineering projects and building my skills<br>
-🌱 I’m currently learning about terraform <br>
-👯 I’m looking to collaborate on any projects that involve Data Engineering or DevOps<br>
+🌱 I’m currently learning about Databricks Pyspark and using Terraform IaC on ETL based projects <br>
+👯 I’m looking to collaborate on any projects that involve Data Engineering <br>
 
 ## 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
